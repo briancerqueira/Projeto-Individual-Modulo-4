@@ -5,4 +5,5 @@ R : Disciplinas, cronogramas, número de salas.
 R : ID Alunos, ID Turmas, ID Professores e ID Curso.
 
 3- Como essas entidades estão relacionadas?
-R : 
+R : As entidades estão relacionadas por chave estrangeiras. Um curso contém uma ou mais turmas, uma turma contém um ou mais alunos, e uma turma contém um ou mais professores.
+ 
